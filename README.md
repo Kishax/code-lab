@@ -10,3 +10,6 @@ There are the following branches for learning.
 * [rust](https://github.com/bella2391/Learning/tree/rust)
 * [c/c++](https://github.com/bella2391/Learning/tree/c)
 * [scala](https://github.com/bella2391/Learning/tree/scala)
+
+## License
+[MIT](LICENSE.txt)

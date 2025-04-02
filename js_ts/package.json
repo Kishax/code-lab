@@ -1,0 +1,24 @@
+{
+  "name": "code-lab",
+  "version": "0.0.2",
+  "private": true,
+  "scripts": {
+    "build": "webpack --mode=development",
+    "server": "webpack serve --mode=development"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.26.10",
+    "@babel/preset-env": "^7.26.9",
+    "babel-loader": "^10.0.0",
+    "ts-loader": "^9.5.1",
+    "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.7.2",
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.0",
+    "webpack-merge": "^6.0.1",
+    "webpack-node-externals": "^3.0.0"
+  }
+}

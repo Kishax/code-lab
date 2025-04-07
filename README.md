@@ -7,4 +7,4 @@ There are the following branches for learning.
 <img alt="my skills" src="https://skillicons.dev/icons?i=js,ts,python,rust,c,cpp,scala&theme=light">
 
 ## License
-[MIT](LICENSE.txt)
+[MIT](LICENSE)

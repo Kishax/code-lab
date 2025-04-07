@@ -6,4 +6,4 @@ TOKEN=thisisdiscordtoken
 ```
 
 ## License
-[MIT](../LICENSE.txt)
+[MIT](../LICENSE)

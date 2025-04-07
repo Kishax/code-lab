@@ -1,4 +1,4 @@
 # code-lab - rust
 
 ## License
-[MIT](../LICENSE.txt)
+[MIT](../LICENSE)

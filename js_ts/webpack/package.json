@@ -1,6 +1,9 @@
 {
-  "name": "code-lab",
-  "version": "0.0.2",
+  "name": "code-lab-webpack",
+  "version": "0.0.1",
+  "description": "",
+  "license": "MIT",
+  "author": "bella2391",
   "private": true,
   "scripts": {
     "build": "webpack --mode=development",

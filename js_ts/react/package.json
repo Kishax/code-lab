@@ -4,6 +4,7 @@
   "description": "",
   "license": "MIT",
   "author": "bella2391",
+  "private": true,
   "type": "commonjs",
   "main": "index.js",
   "scripts": {

@@ -2,15 +2,16 @@ import Dependencies._
 
 ThisBuild / scalaVersion := "2.13.12"
 ThisBuild / version := "0.1.0-SNAPSHOT"
-ThisBuild / organization := "com.example"
-ThisBuild / organizationName := "example"
+ThisBuild / organization := "com.github"
+ThisBuild / organizationName := "verazza"
 
 lazy val root = (project in file("."))
   .settings(
-    name := "Scala Seed Project",
-    libraryDependencies += munit % Test
+    name := "code-lab",
+    libraryDependencies += munit % Test,
+    Compile / run / mainClass := Some("com.github.verazza.Hello")
   )
 
-lazy val _source = project.in(file(".source"))
+lazy val source = project.in(file(".source"))
 
 // See https://www.scala-sbt.org/1.x/docs/Using-Sonatype.html for instructions on how to publish to Sonatype

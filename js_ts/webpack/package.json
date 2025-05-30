@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "",
   "license": "MIT",
-  "author": "verazza",
+  "author": "Takaya Maekawa",
   "private": true,
   "scripts": {
     "build": "webpack --mode=development",

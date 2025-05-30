@@ -1,4 +1,4 @@
-package verazza
+package takayamaekawa
 
 object Hello extends Greeting with App {
   println(greeting)

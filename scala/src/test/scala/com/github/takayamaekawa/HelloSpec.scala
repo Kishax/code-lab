@@ -1,4 +1,4 @@
-package verazza
+package takayamaekawa
 
 class HelloSpec extends munit.FunSuite {
   test("say hello") {
